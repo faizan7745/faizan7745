@@ -1,6 +1,5 @@
 <!-- Banner -->
 ![Banner](https://github.com/faizan7745/image/blob/main/Red%20and%20White%20Modern%20Project%20Manager%20LinkedIn%20Banner.gif)
-<h1 align="center">Faizan Shaikh 👋</h1>
 <p align="center">
   Pune, India | <a href="mailto:faizans7745@gmail.com">faizans7745@gmail.com</a> | +91 7745810711<br>
   <a href="https://www.linkedin.com/in/faizan-shaikh8888">LinkedIn</a> | <a href="https://github.com/faizan7745">GitHub</a>
@@ -8,21 +7,17 @@
 
 ---
 
-## 📝 Summary
-> Eager and driven DevOps engineer with hands-on skills in automating deployments, optimizing cloud infrastructure, and delivering scalable, secure cloud solutions.
-
----
-
 ## ⚡ Skills
 
 ### **Cloud & DevOps**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50" title="AWS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" title="AWS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" title="Docker"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" title="Kubernetes"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="50" title="Terraform"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="50" title="Ansible"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="50" title="Jenkins"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Amazon_CloudWatch_logo.svg" width="50" title="CloudWatch"/>
 </p>
 
 ### **Programming & Scripting**
@@ -35,7 +30,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="50" title="Prometheus"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="50" title="Grafana"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50" title="CloudWatch"/>
 </p>
 
 ### **Databases & Version Control**
@@ -56,6 +50,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan7745&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://github.com/faizanshaikh/faizanshaikh/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
