@@ -1,3 +1,5 @@
+<!-- Banner -->
+![Banner](https://github.com/faizan7745/image/blob/main/Red%20and%20White%20Modern%20Project%20Manager%20LinkedIn%20Banner.gif)
 # Hi, I'm Faizan Shaikh 👋  
 🚀 Cloud & DevOps Engineer 
 
