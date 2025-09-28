@@ -55,7 +55,7 @@
 
 ## 🐍 GitHub Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/faizan7745/faizan7745/main/assets/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+  <img src="https://github.com/faizan7745/image/blob/main/contributions.svg" />
 </p>
 
 ---
