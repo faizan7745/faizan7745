@@ -9,7 +9,7 @@
 
 ## ⚡ Skills
 
-### **Cloud & DevOps**
+### **Tools**
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" title="AWS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" title="Docker"/>
@@ -17,7 +17,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="50" title="Terraform"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="50" title="Ansible"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="50" title="Jenkins"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Amazon_CloudWatch_logo.svg" width="50" title="CloudWatch"/>
 </p>
 
 ### **Programming & Scripting**
@@ -56,7 +55,7 @@
 
 ## 🐍 GitHub Contribution Snake
 <p align="center">
-  <img src="https://github.com/faizanshaikh/faizanshaikh/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/faizan7745/faizan7745/main/assets/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </p>
 
 ---
